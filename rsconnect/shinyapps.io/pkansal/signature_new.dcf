@@ -1,0 +1,12 @@
+name: signature_new
+title: signature_new
+username:
+account: pkansal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2336183
+bundleId: 3177643
+url: https://pkansal.shinyapps.io/signature_new/
+when: 1590131507.30392
+asMultiple: FALSE
+asStatic: FALSE

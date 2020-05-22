@@ -1,0 +1,12 @@
+name: Signature
+title: Signature
+username:
+account: pkansal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2340555
+bundleId: 3177660
+url: https://pkansal.shinyapps.io/Signature/
+when: 1590131982.81152
+asMultiple: FALSE
+asStatic: FALSE
